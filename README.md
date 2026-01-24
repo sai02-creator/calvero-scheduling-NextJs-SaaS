@@ -94,6 +94,9 @@ It handles availability, bookings, and calendar sync automatically so you can fo
 ### Home Page
 ![Home Page](./screenshots/home.png)
 
+### Sign In
+![Sign In](./screenshots/signin.png)
+
 
 ### Availability Management
 ![Availability](./screenshots/availability.png)
@@ -112,8 +115,7 @@ It handles availability, bookings, and calendar sync automatically so you can fo
 ![Settings](./screenshots/settings.png)
 
 
-### Sign In
-![Sign In](./screenshots/signin.png)
+
 
 
 ---
