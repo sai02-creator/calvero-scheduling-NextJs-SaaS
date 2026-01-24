@@ -1,40 +1,90 @@
- HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Calvero
 
-## Getting Started
+## 📜 License
+**CC BY-NC 4.0**  
+Creative Commons Attribution–NonCommercial 4.0 International
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠️ Tech Stack
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Next.js**
+- **TypeScript**
+- **Clerk** (Authentication)
+- **Sanity** (CMS)
+- **Tailwind CSS**
+- **Vercel** (Deployment)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✨ Features
 
-## Learn More
+### 👥 For End Users
 
-To learn more about Next.js, take a look at the following resources:
+| Feature | Description |
+|------|-------------|
+| 📅 **Smart Availability** | Drag-and-drop calendar to set when you're free for meetings |
+| 🔄 **Google Calendar Sync** | Connect multiple Google accounts to prevent double-booking |
+| 🎥 **Automatic Google Meet** | Every booking generates a video call link automatically |
+| ⏱️ **Flexible Meeting Types** | Create 15, 30, 45, 60, or 90-minute meeting options |
+| 🌍 **Timezone Intelligence** | Guests see availability in their local timezone |
+| ✅ **Real-time Status** | Track who accepted, declined, or hasn't responded |
+| 🔗 **Shareable Booking Pages** | Clean URLs like `/book/your-name/consultation` |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### ⚙️ Technical Features (The Smart Stuff)
 
-## Deploy on Vercel
+| Feature | Description |
+|------|-------------|
+| ⚡ **Next.js 16 App Router** | Built with React 19 & Server Components |
+| 🔐 **Clerk Auth + Billing** | Authentication and subscription management in one |
+| 📊 **Sanity CMS** | Real-time data with embedded Studio at `/studio` |
+| 🔑 **OAuth2 Token Refresh** | Automatic handling of expired Google tokens |
+| 💰 **Tiered Pricing** | Free, Starter, and Pro subscription plans |
+| 📈 **Admin Dashboard** | Insights, analytics, and feedback management |
+| 🎨 **shadcn/ui** | Beautiful, accessible, and composable UI components |
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📅 What Is This App?
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# calvero-scheduling-NextJs-SaaS
->>>>>>> 2a8a600422819a9c4939e43ddc336f576a5cb58a
+Think of **Calvero** as your personal scheduling assistant —  
+but one that never sleeps and never double-books you.
+
+It handles availability, bookings, and calendar sync automatically so you can focus on the meeting, not the logistics.
+
+---
+
+## 👤 For Hosts (You)
+
+- **Set your availability**  
+  Use a visual calendar to drag and create time blocks when you're free for meetings.
+
+- **Connect your Google Calendar**  
+  Calvero reads your existing events so it never shows time slots when you're already busy.
+
+- **Create meeting types**  
+  Define different kinds of meetings:
+  - 15-min quick chat
+  - 30-min consultation
+  - 60-min deep dive
+
+- **Share your booking link**  
+  Send `yoursite.com/book/your-name` to anyone who wants to meet.
+
+---
+
+## 🙋 For Guests (People Booking With You)
+
+- Visit your public booking page
+- See **only the times you're actually available**
+- Pick a slot and enter their name & email
+- Automatically receive a **Google Calendar invite with a Google Meet link**
+
+---
+
+## 🎯 Perfect For
+
+- Freelancers scheduling client calls
+- Consultants managing discovery sessions
+- Coaches & tutors booking 1-on-1 sessions
+- Developers learning how to build SaaS products
