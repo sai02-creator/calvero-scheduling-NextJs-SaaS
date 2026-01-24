@@ -89,5 +89,4 @@ It handles availability, bookings, and calendar sync automatically so you can fo
 
 ## 🚀 Live Demo
 
-
-Check it out: [https://calvero-scheduling-saas.vercel.app/](https://calvero-scheduling-saas.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/View-Live%20App-blue?style=for-the-badge)](https://calvero-scheduling-saas.vercel.app/)
