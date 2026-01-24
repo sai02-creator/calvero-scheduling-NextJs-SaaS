@@ -1,10 +1,14 @@
 # Calvero
 
-## 📜 License
-**CC BY-NC 4.0**  
-Creative Commons Attribution–NonCommercial 4.0 International
+## 📅 What Is This App?
+
+Think of **Calvero** as your personal scheduling assistant —  
+but one that never sleeps and never double-books you.
+
+It handles availability, bookings, and calendar sync automatically so you can focus on the meeting, not the logistics.
 
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -45,14 +49,6 @@ Creative Commons Attribution–NonCommercial 4.0 International
 | 📈 **Admin Dashboard** | Insights, analytics, and feedback management |
 | 🎨 **shadcn/ui** | Beautiful, accessible, and composable UI components |
 
-## 📅 What Is This App?
-
-Think of **Calvero** as your personal scheduling assistant —  
-but one that never sleeps and never double-books you.
-
-It handles availability, bookings, and calendar sync automatically so you can focus on the meeting, not the logistics.
-
----
 
 ## 👤 For Hosts (You)
 
@@ -88,3 +84,10 @@ It handles availability, bookings, and calendar sync automatically so you can fo
 - Consultants managing discovery sessions
 - Coaches & tutors booking 1-on-1 sessions
 - Developers learning how to build SaaS products
+
+
+
+## 🚀 Live Demo
+
+
+Check it out: [https://calvero-scheduling-saas.vercel.app/](https://calvero-scheduling-saas.vercel.app/)
