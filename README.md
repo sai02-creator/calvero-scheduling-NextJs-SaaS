@@ -85,6 +85,39 @@ It handles availability, bookings, and calendar sync automatically so you can fo
 - Coaches & tutors booking 1-on-1 sessions
 - Developers learning how to build SaaS products
 
+---
+
+
+## 🖼️ Screenshots
+
+
+### Home Page
+![Home Page](./screenshots/home.png)
+
+
+### Availability Management
+![Availability](./screenshots/availability.png)
+
+
+### Bookings Page
+![Bookings](./screenshots/bookings.png)
+
+
+### Pricing Pages
+![Pricing](./screenshots/pricing.png)
+![Pricing 2](./screenshots/pricing2.png)
+
+
+### Settings
+![Settings](./screenshots/settings.png)
+
+
+### Sign In
+![Sign In](./screenshots/signin.png)
+
+
+---
+
 
 
 ## 🚀 Live Demo
