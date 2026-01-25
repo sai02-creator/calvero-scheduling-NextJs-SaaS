@@ -115,6 +115,13 @@ It handles availability, bookings, and calendar sync automatically so you can fo
 ![Settings](./screenshots/settings.png)
 
 
+### SanityStudio(CMS)
+![SanityStudio(CMS)](./screenshots/sanitystudio-cms.png)
+
+### Admin
+![SanityAdmin](./screenshots/admin.png)
+
+
 
 
 
